@@ -2726,10 +2726,10 @@
     google-gax "^2.24.1"
     protobufjs "^6.8.6"
 
-"@google-cloud/logging@9.8.0":
-  version "9.8.0"
-  resolved "https://registry.yarnpkg.com/@google-cloud/logging/-/logging-9.8.0.tgz#e2bc70ad133db28d76ecc9d1c3d4950ee549f6e1"
-  integrity sha512-lfVp42fa/h2pWraLhmPh3JdDIIFoeS5CuZaHdfXswsN9eMmiwZI4WigqWd/d606kjMc9iZcw0r5Y4mtyY+At2g==
+"@google-cloud/logging@9.8.3":
+  version "9.8.3"
+  resolved "https://registry.yarnpkg.com/@google-cloud/logging/-/logging-9.8.3.tgz#38db20938ba891fe84443429a3123019cdfa4ccf"
+  integrity sha512-6+0UiGQK/6/9q1m0brdMHa/1h3WiEK8A3ibgAjnmjDqbnG0CjePHynVlkbphn0FmJvAp12veYgKxhmP2ShAsVA==
   dependencies:
     "@google-cloud/common" "^3.4.1"
     "@google-cloud/paginator" "^3.0.0"
